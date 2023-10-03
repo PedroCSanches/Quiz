@@ -1,1 +1,24 @@
+main {
+    text-align: center;
+    width: 100%;
+    margin-top: 5%;
+  }
+  
+  .container {
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 2px;
+    background-color: #261132;
+    width: 450px;
+    min-height: 200px;
+    height: min-content;
+    margin: auto;
+    border-radius: 15px;
+    color: azure;
+    box-shadow: rgb(0, 0, 0, 0.75);
+    font-size: 20px;
+  }
 
+  .pergunta {
+    margin-bottom: 12px;
+  }
