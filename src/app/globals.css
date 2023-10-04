@@ -21,4 +21,24 @@ main {
 
   .pergunta {
     margin-bottom: 12px;
+
+  }
+
+  .buttonAlternativa{
+    margin-left: 10px;
+  }
+  
+  .pontuacao{
+    display: grid;
+    min-height: 200px;
+    font-size: 24px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .contagemPerguntas{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+  
   }
